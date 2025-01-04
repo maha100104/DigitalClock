@@ -73,6 +73,6 @@
     content:'MINUTES';
 }
 #secs::after{
-    content:'SECSONDS';
+    content:'SECONDS';
 }
 
